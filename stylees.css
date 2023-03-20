@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-color:#283149;
+
+}
+#title{
+    font-size: 76px;
+    font-family: cursive;
+    text-shadow: 3px 0 #DA0463;
+
+}
+
+.drum{
+    width: 150px;
+    height: 160px;
+    margin: 16px;
+    outline: none;
+    border: 2px solid black;
+    font-size: 50px;
+    font-family: cursive;
+    display: inline-block;
+    border-radius: 17px;
+    text-shadow: 5px 0 white;
+    
+}
+
+.set{
+    margin: 10% auto;
+}
+
+button.w.drum{
+
+    background-image: url('Images/image1.png');
+}
+button.j.drum{
+    background-image: url('Images/image2.png');
+}
+
+button.k.drum {
+    background-image: url('Images/image3.png');
+}
+button.l.drum{
+    background-image: url('Images/image4.png');
+}
+
+button.m.drum{
+    background-image: url('Images/image5_.png');
+    
+}
+button.n.drum{
+
+    background-image: url('Images/image6.png');
+    
+}
